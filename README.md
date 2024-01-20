@@ -1,16 +1,29 @@
-### Hi there 👋
+# Welcome to my GitHub
 
-<!--
-**luisdavidpaz/luisdavidpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Luis David, a passionate Engineering student with a keen interest in technology and a background in project management and data analyst.
 
-Here are some ideas to get you started:
+## Technologies and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Development:** HTML, CSS
+- **Programming Languages:** Python
+- **Databases:** SQL
+- **Microsoft Office Tools:** Excel, Word, PowerPoint, Project, Visio
+- **Data Analysis:** Power BI, Pandas, NumPy
+- **Specialized Expertise:** Excel (advanced formulas, Power Query, Power Pivot)
+
+## Collaboration and Professional Development
+
+I am continuously learning and seeking collaboration with international companies where I can apply my skills and knowledge. I am particularly interested in opportunities related to logistics and supply chain management.
+
+## Key Skills
+
+- Project management experience
+- Data development and analysis with Power BI, Pandas, and NumPy
+- Specialization in Microsoft Excel, Power Query, and Power Pivot
+
+## Collaborate with Me
+
+If you have ideas, suggestions, or just want to collaborate on any of the projects, I'd be delighted to work with you! Feel free to reach out to discuss potential collaborations or professional opportunities.
+
+Thank you for visiting my repository!
+
