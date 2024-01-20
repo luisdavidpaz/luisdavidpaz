@@ -21,9 +21,5 @@ I am continuously learning and seeking collaboration with international companie
 - Data development and analysis with Power BI, Pandas, and NumPy
 - Specialization in Microsoft Excel, Power Query, and Power Pivot
 
-## Collaborate with Me
-
-If you have ideas, suggestions, or just want to collaborate on any of the projects, I'd be delighted to work with you! Feel free to reach out to discuss potential collaborations or professional opportunities.
-
-Thank you for visiting my repository!
+###Thank you for visiting my repository!
 
