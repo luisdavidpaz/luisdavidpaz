@@ -21,5 +21,5 @@ I am continuously learning and seeking collaboration with international companie
 - Data development and analysis with Power BI, Pandas, and NumPy
 - Specialization in Microsoft Excel, Power Query, and Power Pivot
 
-###Thank you for visiting my repository!
+### Thank you for visiting my repository!
 
