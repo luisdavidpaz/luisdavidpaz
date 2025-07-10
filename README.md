@@ -4,7 +4,6 @@ Hello! I'm Luis David, a passionate Engineering student with a keen interest in 
 
 ## Technologies and Tools
 
-- **Web Development:** HTML, CSS
 - **Programming Languages:** Python
 - **Databases:** SQL
 - **Microsoft Office Tools:** Excel, Word, PowerPoint, Project, Visio
